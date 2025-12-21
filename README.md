@@ -18,6 +18,8 @@ CONTENT WARNING: This repository contains graphic and highly sensitive material 
 
 ## Overview
 
+Note. There is ALOT of data. It will take a while for me to process all of it, and upload it. It will initially be hosted on my [Hugging Face account](https://huggingface.co/datasets/theelderemo/FULL_EPSTEIN_INDEX) and will be migrated here once the dataset has been completed.
+
 **FULL_EPSTEIN_INDEX** is a comprehensive, unified research archive aggregating public releases related to the Jeffrey Epstein estate and associated investigations. 
 
 This repository expands upon earlier archives (such as the initial November 2025 House Oversight release) by integrating the **First Phase of Declassified Epstein Files** released by the Department of Justice. Unlike previous datasets restricted to scanned emails, this index combines:
